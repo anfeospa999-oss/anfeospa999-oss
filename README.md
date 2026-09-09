@@ -69,9 +69,9 @@ Sistema de gestión de biblioteca desarrollado como aplicación web.
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub de Andrés](https://github-readme-stats.vercel.app/api?username=anfeospa999-oss&show_icons=true&theme=tokyonight&hide_border=true)
+![Estadísticas de GitHub de Andrés](https://github-readme-stats.vercel.app/api?username=anfeospa999-oss&show_icons=true&theme=tokyonight&hide_border=true&v=1)
 
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=anfeospa999-oss&layout=compact&theme=tokyonight&hide_border=true)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=anfeospa999-oss&layout=compact&theme=tokyonight&hide_border=true&v=1)
 
 ---
 

@@ -1,7 +1,7 @@
-# 👋 Hola, soy Andrés Felipe Ospina
+# 👋 Hola, soy Andrés Felipe Ospina Pardo
 ### 💻 Desarrollador de Software | Tecnólogo ADSO — SENA 🎓
 
-Soy apasionado por el desarrollo de software, especialmente por el backend, las bases de datos y la arquitectura de aplicaciones. Me enfoco en crear soluciones organizadas, funcionales y escalables.
+Soy apasionado por el desarrollo de software, especialmente por el backend, frontend las bases de datos y la arquitectura de aplicaciones. Me enfoco en crear soluciones organizadas, funcionales y escalables.
 
 Actualmente desarrollo aplicaciones web y de escritorio, trabajando con tecnologías como Python, Flask, Java y PostgreSQL, mientras exploro arquitecturas modernas en la nube e Inteligencia Artificial.
 
